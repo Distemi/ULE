@@ -1,0 +1,5 @@
+/target
+/latest.log
+/Cargo.lock
+/.idea
+latest.log
